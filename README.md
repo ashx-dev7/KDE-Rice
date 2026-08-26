@@ -11,12 +11,12 @@ FOR ICONS USE
 2. Tala
 
 FOR CURSOR 
-4. MacOS
-Or anything you like
+1.MacOS
+2.Or anything you like
 
 BEST WALLPAPERS 
-https://github.com/orangci/walls-catppuccin-mocha
+1.https://github.com/orangci/walls-catppuccin-mocha
 
 PANNEL SETTING
-Pannel Size- 38-40
-Everything else is default
+1.Pannel Size- 38-40
+2.Everything else is default
