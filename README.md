@@ -20,3 +20,16 @@ FOR CURSOR
     Or anything you like
   </li>
 </0l>
+  PANEL SETTING
+<ol>
+  <LI>Panel size- 38-40</LI>
+  <li>Widgets- Media Player</li>
+  <li>Everything Else is default</li>
+</ol>
+WALLPAPER
+<ol>
+  <li>Mine- https://github.com/orangci/walls-catppuccin-mocha/blob/master/storm.jpg </li>
+  <li>More like mine- <a href="https://github.com/orangci/walls-catppuccin-mocha"> Cattppucin wallpapers </li>
+  <img width="903" height="793" alt="Screenshot_20260826_202638" src="https://github.com/user-attachments/assets/3c683270-7043-42bc-a1ec-d688cf654fdf" />
+
+</ol>
