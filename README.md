@@ -19,10 +19,10 @@ FOR CURSOR
   <li>
     Or anything you like
   </li>
-</0l>
+</ol>
   PANEL SETTING
 <ol>
-  <LI>Panel size- 38-40</LI>
+  <li>Panel size- 38-40</li>
   <li>Widgets- Media Player</li>
   <li>Everything Else is default</li>
 </ol>
